@@ -19,3 +19,5 @@ This is a Design solution to the [shady-rythmes community figma design](https://
 ### The challenge
 
 Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
