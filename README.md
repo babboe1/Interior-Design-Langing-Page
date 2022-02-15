@@ -5,3 +5,4 @@ This is a Design solution to the [shady-rythmes community figma design](https://
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
