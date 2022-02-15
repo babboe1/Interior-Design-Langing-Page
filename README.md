@@ -15,3 +15,5 @@ This is a Design solution to the [shady-rythmes community figma design](https://
 - [Author](#author)
 
 ## Overview
+
+### The challenge
