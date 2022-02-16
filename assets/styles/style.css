@@ -31,6 +31,10 @@ html {
 	pointer-events: none;
 	display: none;
 }
+#backdrop.visible {
+	display: block;
+	pointer-events: all;
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
