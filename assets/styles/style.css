@@ -12,6 +12,10 @@
 	height: 100%;
 	max-width: fit-content;
 }
+.StopScroll {
+	height: 100vh;
+	overflow: hidden;
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
