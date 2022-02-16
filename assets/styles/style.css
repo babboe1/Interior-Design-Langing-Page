@@ -7,6 +7,11 @@
 	display: none;
 	pointer-events: none;
 }
+.ImageSize {
+	width: 100%;
+	height: 100%;
+	max-width: fit-content;
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
