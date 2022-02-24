@@ -43,3 +43,8 @@ html {
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
+#body_content {
+   border: 1px solid red;
+   margin: auto;
+   max-width:1920px;
+}
