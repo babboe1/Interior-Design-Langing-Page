@@ -52,3 +52,17 @@ html {
    animation: fade-Image 20s ease-in infinite;
    padding: 1.5rem;
 }
+@keyframes fade-Image {
+   0%, 100%{
+      background: url(../images/mobile/Hero_1.png);
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: center top;
+   }
+   50%{
+      background: url(../images/mobile/Hero_2.png);
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: center top
+   }
+}
