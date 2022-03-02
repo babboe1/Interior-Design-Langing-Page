@@ -82,3 +82,12 @@ html {
    flex-direction: column;
    row-gap: 20px;
 }
+#header_1 {
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+max-width:290px;
+margin: 0 auto;
+}
