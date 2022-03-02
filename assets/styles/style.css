@@ -120,3 +120,7 @@ margin: auto;
    background: rgba(255, 255, 255, 0.5);
 padding: 7px 1rem ;
 }
+::placeholder {
+  color: #ffffff;
+}
+
