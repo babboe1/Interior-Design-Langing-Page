@@ -66,3 +66,9 @@ html {
       background-position: center top
    }
 }
+#header {
+   border: 1px solid blue;
+   display: flex;
+   justify-content: space-between;
+}
+
