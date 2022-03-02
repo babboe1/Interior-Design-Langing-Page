@@ -110,4 +110,13 @@ margin: auto;
    background: rgba(255, 255, 255,);
 
 }
-
+#search_bar {
+   border-top-left-radius: 30px;
+   border-bottom-left-radius: 30px;
+   padding: 0 1rem;
+   width: 100%;
+   outline: none;
+   border: none;
+   background: rgba(255, 255, 255, 0.5);
+padding: 7px 1rem ;
+}
