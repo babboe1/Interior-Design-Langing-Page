@@ -49,4 +49,6 @@ html {
    border: 1px solid red;
    margin: auto;
    max-width:1920px;
+   animation: fade-Image 20s ease-in infinite;
+   padding: 1.5rem;
 }
