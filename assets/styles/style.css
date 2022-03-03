@@ -150,6 +150,12 @@ padding: 7px 1rem ;
    width: 48px;
    height: 48px;
 }
+.header_2 {
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 24px;
+   color: #564E4E;
+}
 .Ellipse {
    padding-top: 60px;
 }
