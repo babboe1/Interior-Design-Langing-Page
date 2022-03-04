@@ -191,6 +191,10 @@ ul {
 .DesignIdea {
    padding: 40px 0 100px;
 }
+.ListHeader {
+   display: flex;
+   justify-content: space-between;
+}
 .Ellipse {
    padding-top: 60px;
 }
