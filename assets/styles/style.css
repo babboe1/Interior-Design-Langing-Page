@@ -200,6 +200,9 @@ ul {
    font-size: 13.5px;
    font-weight: 700;
 }
+.FeaturedProduct {
+   padding: 100px 0;
+}
 .Ellipse {
    padding-top: 60px;
 }
