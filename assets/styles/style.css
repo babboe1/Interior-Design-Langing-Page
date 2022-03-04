@@ -182,6 +182,12 @@ padding: 7px 1rem ;
    text-align: center;
    color: #564E4E;
 }
+ul {
+   list-style: none;
+   display: flex;
+   flex-direction: column;
+   row-gap: 20px;
+}
 .Ellipse {
    padding-top: 60px;
 }
