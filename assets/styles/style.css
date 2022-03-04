@@ -176,6 +176,12 @@ padding: 7px 1rem ;
 .Visualize {
    padding: 100px 0px;
 }
+.header_3 {
+   font-size: 20px;
+   line-height: 26px;
+   text-align: center;
+   color: #564E4E;
+}
 .Ellipse {
    padding-top: 60px;
 }
