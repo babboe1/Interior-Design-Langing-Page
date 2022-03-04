@@ -45,11 +45,13 @@ html {
 }
 #body_content {
    font-family: 'Poppins', sans-serif;
+   font-size:12px;
    font-style: normal;
+   font-weight: normal;
    border: 1px solid red;
    margin: auto;
-   max-width:1920px;
    animation: fade-Image 20s ease-in infinite;
+   max-width:1920px;
    padding: 1.5rem;
 }
 @keyframes fade-Image {
@@ -164,9 +166,6 @@ padding: 7px 1rem ;
 .Paragraph_2 {
    line-height: 24px;
    color: #564E4E;
-}
-.Ellipse {
-   padding-top: 60px;
 }
 .MoreInfo {
    color: #F79489;
