@@ -236,6 +236,10 @@ ul {
    column-gap: 10px;
    padding-top: 14px;
 }
+.ProfilePic {
+   width: 40px;
+   height: 40px;
+}
 .Ellipse {
    padding-top: 60px;
 }
