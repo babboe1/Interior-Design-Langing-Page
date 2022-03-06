@@ -228,6 +228,9 @@ ul {
    flex-direction: column;
    row-gap: 40px;
 }
+.header_4 {
+   padding-bottom: 10px;
+}
 .Ellipse {
    padding-top: 60px;
 }
