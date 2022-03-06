@@ -217,6 +217,10 @@ ul {
    column-gap: 10px;
    padding: 20px 0;
 }
+.Previews {
+   width: 50%;
+   text-align: center;
+}
 .Ellipse {
    padding-top: 60px;
 }
