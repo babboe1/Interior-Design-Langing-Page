@@ -207,7 +207,10 @@ ul {
    font-weight: 700;
 }
 .FeaturedProduct {
-   padding: 100px 0;
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   padding-bottom: 80px;
 }
 .Ellipse {
    padding-top: 60px;
