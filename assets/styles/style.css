@@ -231,6 +231,11 @@ ul {
 .header_4 {
    padding-bottom: 10px;
 }
+.profile {
+   display:flex;
+   column-gap: 10px;
+   padding-top: 14px;
+}
 .Ellipse {
    padding-top: 60px;
 }
