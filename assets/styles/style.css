@@ -167,6 +167,9 @@ padding: 7px 1rem ;
    line-height: 24px;
    color: #564E4E;
 }
+.Paragraph_ul {
+   padding: 10px 0 20px;
+}
 .MoreInfo {
    color: #F79489;
    font-size: 13px;
