@@ -70,8 +70,8 @@ html {
 	}
 }
 #header {
-   display: flex;
-   justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
 }
 .NavIcon { display: flex; column-gap: .5rem;}
 #main {
