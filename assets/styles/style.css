@@ -51,8 +51,8 @@ html {
 	border: 1px solid red;
 	margin: auto;
 	animation: fade-Image 20s ease-in infinite;
-   max-width:1920px;
-   padding: 1.5rem;
+	max-width: 1920px;
+	padding: 1.5rem;
 }
 @keyframes fade-Image {
    0%, 100%{
