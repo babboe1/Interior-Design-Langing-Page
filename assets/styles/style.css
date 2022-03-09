@@ -45,12 +45,12 @@ html {
 }
 #body_content {
    font-family: 'Poppins', sans-serif;
-   font-size:13px;
-   font-style: normal;
-   font-weight: normal;
-   border: 1px solid red;
-   margin: auto;
-   animation: fade-Image 20s ease-in infinite;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	border: 1px solid red;
+	margin: auto;
+	animation: fade-Image 20s ease-in infinite;
    max-width:1920px;
    padding: 1.5rem;
 }
