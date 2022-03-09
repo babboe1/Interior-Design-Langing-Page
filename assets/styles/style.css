@@ -240,6 +240,11 @@ ul {
    width: 40px;
    height: 40px;
 }
+.ProfileDetails {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
 .Ellipse {
    padding-top: 60px;
 }
