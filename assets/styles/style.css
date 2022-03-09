@@ -62,10 +62,10 @@ html {
 		background-size: contain;
 		background-position: center top;
 	}
-   50%{
-      background: url(../images/mobile/Hero_2.png);
-      background-repeat: no-repeat;
-      background-size: contain;
+	50% {
+		background: url(../images/mobile/Hero_2.png);
+		background-repeat: no-repeat;
+		background-size: contain;
       background-position: center top
    }
 }
