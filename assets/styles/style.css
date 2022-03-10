@@ -135,10 +135,10 @@ html {
 	padding: 7px 5px;
 }
 .Qualities {
-   display: flex;
-   flex-direction: column;
-   row-gap: 20px;
-   padding-top: 38px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+	padding-top: 38px;
 }
 .quality_1 {
    background: rgba(255, 255, 255, 0.2);
