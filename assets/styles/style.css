@@ -104,8 +104,8 @@ html {
 	text-align: center;
 	color: #ffffff;
 }
-.SearchBox{
-   display: flex;
+.SearchBox {
+	display: flex;
 	border: 1px solid #ffffff;
 	border-radius: 30px;
 	width: 100%;
