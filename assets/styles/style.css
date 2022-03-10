@@ -106,11 +106,11 @@ html {
 }
 .SearchBox{
    display: flex;
-border: 1px solid #FFFFFF;
-border-radius: 30px;
-width: 100%;
-max-width: 17.5rem;
-margin: auto;
+	border: 1px solid #ffffff;
+	border-radius: 30px;
+	width: 100%;
+	max-width: 17.5rem;
+	margin: auto;
    background: rgba(255, 255, 255,);
 
 }
