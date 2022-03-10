@@ -96,12 +96,12 @@ html {
 	margin: 0 auto;
 }
 .paragraph_1 {
-   margin: auto;
-   max-width: 290px;
-   font-weight: 400;
-   font-size: 15px;
-   line-height: 24px;
-text-align: center;
+	margin: auto;
+	max-width: 290px;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	text-align: center;
 color: #FFFFFF;
 }
 .SearchBox{
