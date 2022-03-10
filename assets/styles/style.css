@@ -73,7 +73,10 @@ html {
 	display: flex;
 	justify-content: space-between;
 }
-.NavIcon { display: flex; column-gap: .5rem;}
+.NavIcon {
+	display: flex;
+	column-gap: 0.5rem;
+}
 #main {
    padding: 20px 0 ;
 }
