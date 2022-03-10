@@ -124,7 +124,7 @@ html {
 	padding: 7px 1rem;
 }
 ::placeholder {
-  color: #ffffff;
+	color: #ffffff;
 }
 .SearchBtn {
    outline: none;
