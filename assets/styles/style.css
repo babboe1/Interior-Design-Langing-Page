@@ -188,10 +188,10 @@ html {
    color: #564E4E;
 }
 ul {
-   list-style: none;
-   display: flex;
-   flex-direction: column;
-   row-gap: 20px;
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
 }
 .DesignList {
    padding: 0 0 20px;
