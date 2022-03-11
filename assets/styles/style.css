@@ -204,9 +204,9 @@ ul {
 	justify-content: space-between;
 }
 .IdeaText {
-   color: #564E4E;
-   font-size: 13.5px;
-   font-weight: 700;
+	color: #564e4e;
+	font-size: 13.5px;
+	font-weight: 700;
 }
 .FeaturedProduct {
    display: flex;
