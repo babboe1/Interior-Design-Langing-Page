@@ -215,9 +215,9 @@ ul {
 	padding-bottom: 80px;
 }
 .Products {
-   display: flex;
-   column-gap: 10px;
-   padding: 20px 0;
+	display: flex;
+	column-gap: 10px;
+	padding: 20px 0;
 }
 .Previews {
    width: 50%;
