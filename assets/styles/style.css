@@ -243,9 +243,9 @@ ul {
 	height: 40px;
 }
 .ProfileDetails {
-   display: flex;
-   flex-direction: column;
-   justify-content: space-between;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 }
 .Name {
 font-weight: 500;
