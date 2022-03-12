@@ -234,9 +234,9 @@ ul {
 	padding-bottom: 10px;
 }
 .profile {
-   display:flex;
-   column-gap: 10px;
-   padding-top: 14px;
+	display: flex;
+	column-gap: 10px;
+	padding-top: 14px;
 }
 .ProfilePic {
    width: 40px;
