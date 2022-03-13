@@ -263,6 +263,9 @@ ul {
 .BorderRadius2 {
    border-radius: 20px 20px 20px 0;
 }
+.h4 {
+   padding: 40px 0 20px;
+}
 .Ellipse {
 	padding: 65px 0 10px;
 }
