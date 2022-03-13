@@ -6,6 +6,12 @@
 html {
 	margin: 0;
 	padding: 0;
+   max-width: 1920px;
+   margin: auto;
+   background: linear-gradient(300.41deg, #000000 31.42%, #4B4B4B 117.78%);
+      background-repeat: no-repeat;
+      background-size: 100% 52.5rem;
+      background-position: center bottom;
 }
 .hidden {
 	display: none;
