@@ -117,7 +117,7 @@ html {
 	width: 100%;
 	max-width: 17.5rem;
 	margin: auto;
-	background: rgba(255, 255, 255);
+	/* background: rgba(255, 255, 255); */
 }
 #search_bar, #email_id {
    /* color: #ffffff; */
