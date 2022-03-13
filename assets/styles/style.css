@@ -110,7 +110,7 @@ html {
 	text-align: center;
 	color: #ffffff;
 }
-.SearchBox {
+.SearchBox, .SearchBox1 {
 	display: flex;
 	border: 1px solid #ffffff;
 	border-radius: 30px;
