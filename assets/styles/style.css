@@ -269,6 +269,12 @@ ul {
 .ContactUs {
    padding: 40px 0 20px;
 }
+.SearchBox1 {
+   border: 1px solid #FADCD9;
+   padding-right: 3px;
+   margin: 0;
+   color: #fadcd9;
+}
 .Ellipse {
 	padding: 65px 0 10px;
 }
