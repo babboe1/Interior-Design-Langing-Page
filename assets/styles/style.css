@@ -285,6 +285,10 @@ ul {
    row-gap: 40px;
    color: #fff;
 }
+.FooterLogo {
+   width: 124px;
+   height:auto;
+}
 .Ellipse {
 	padding: 65px 0 10px;
 }
