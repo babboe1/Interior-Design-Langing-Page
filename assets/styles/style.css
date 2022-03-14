@@ -188,6 +188,9 @@ html {
 .Visualize {
 	padding: 100px 0px;
 }
+.BorderRadius1 {
+   border-radius: 20px 20px 0 20px;
+}
 .header_3 {
 	font-size: 20px;
 	line-height: 26px;
