@@ -130,7 +130,7 @@ html {
 	background: rgba(255, 255, 255, 0.5);
 	/* padding: 7px 1rem; */
 }
-::placeholder {
+.SearchBox ::placeholder {
 	color: #ffffff;
 }
 .SearchBtn {
