@@ -282,10 +282,10 @@ ul {
 	padding: 40px 0 20px;
 }
 .SearchBox1 {
-   border: 1px solid #FADCD9;
-   padding-right: 3px;
-   margin: 0;
-   color: #fadcd9;
+	border: 1px solid #fadcd9;
+	padding-right: 3px;
+	margin: 0;
+	color: #fadcd9;
 }
 .SearchBox1 ::placeholder, #email_id {
    color: #F79489
