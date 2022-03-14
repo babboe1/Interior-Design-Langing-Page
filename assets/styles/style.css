@@ -287,8 +287,9 @@ ul {
 	margin: 0;
 	color: #fadcd9;
 }
-.SearchBox1 ::placeholder, #email_id {
-   color: #F79489
+.SearchBox1 ::placeholder,
+#email_id {
+	color: #f79489;
 }
 #footer {
    padding: 20px 0;
