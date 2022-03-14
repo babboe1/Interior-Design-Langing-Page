@@ -235,7 +235,7 @@ ul {
 }
 .feedback {
 	background: linear-gradient(279.85deg, #ffffff 0%, #faf5f2 100%);
-	padding: 40px 0;
+	padding: 40px 0 88px;
 	display: flex;
 	flex-direction: column;
 	row-gap: 40px;
