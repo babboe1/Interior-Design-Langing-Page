@@ -292,11 +292,11 @@ ul {
 	color: #f79489;
 }
 #footer {
-   padding: 20px 0;
-   display: flex;
-   flex-direction: column;
-   row-gap: 40px;
-   color: #fff;
+	padding: 20px 0;
+	display: flex;
+	flex-direction: column;
+	row-gap: 40px;
+	color: #fff;
 }
 .FooterLogo {
    width: 124px;
