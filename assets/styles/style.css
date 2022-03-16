@@ -325,5 +325,11 @@ ul {
    .Ellipse {
       padding-top: 80px;
    }
+}
+@media screen and (min-width: 480px) {
+   #header_1 {
+      font-size: 30px;
+      max-width: 345px;
+   }
 
 }
