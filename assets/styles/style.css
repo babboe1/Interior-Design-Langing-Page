@@ -334,4 +334,7 @@ ul {
 	.Ellipse {
 		padding-top: 135px;
 	}
+   .BorderRadius2 {
+      border-radius: 32px 32px 32px 0;
+   }
 }
