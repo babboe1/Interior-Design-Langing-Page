@@ -36,3 +36,4 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS
+- Mobile-first workflow
