@@ -334,10 +334,10 @@ ul {
 	.Ellipse {
 		padding-top: 135px;
 	}
-   .BorderRadius2 {
-      border-radius: 32px 32px 32px 0;
-   }
-   .BorderRadius1 {
-    border-radius: 32px 32px 0 32px;
-}
+	.BorderRadius2 {
+		border-radius: 32px 32px 32px 0;
+	}
+	.BorderRadius1 {
+		border-radius: 32px 32px 0 32px;
+	}
 }
