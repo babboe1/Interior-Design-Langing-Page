@@ -1,4 +1,4 @@
-# shady-rythmes design----Interior-Design-Langing-Page
+# shady-rythmes design----Interior-Design-Landing-Page
 
 This is a Design solution to the [shady-rythmes community figma design](https://www.figma.com/file/xak1kZllwoui5ja7wb08gK/shady-rhymes-interior-design-landing-page-Community).
 
