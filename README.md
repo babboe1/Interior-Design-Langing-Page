@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Ayodele Abiola](https://www.your-site.com)
+- LinkedIn - [Ayodele Abiola](https://www.linkedin.com/in/abiola-ayodele-5a10651b7/)
 - Frontend Mentor - [@babboe1](https://www.frontendmentor.io/profile/babboe1)
 - Twitter - [@ausstinab](https://www.twitter.com/ausstinab)
