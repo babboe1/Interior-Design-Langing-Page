@@ -37,3 +37,5 @@ Users should be able to:
 - Flexbox
 - CSS
 - Mobile-first workflow
+
+## Author
