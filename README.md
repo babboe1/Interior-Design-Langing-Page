@@ -42,4 +42,4 @@ Users should be able to:
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@babboe1](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@](https://www.twitter.com/yourusername)
