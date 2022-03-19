@@ -6,7 +6,6 @@ This is a Design solution to the [shady-rythmes community figma design](https://
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
