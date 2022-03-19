@@ -10,7 +10,6 @@ This is a Design solution to the [shady-rythmes community figma design](https://
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
