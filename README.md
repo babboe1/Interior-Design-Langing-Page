@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Design URL: [Shady Rhymes Interior Design](https://your-solution-url.com)
+- Design URL: [Shady Rhymes Interior Design](https://www.figma.com/file/xak1kZllwoui5ja7wb08gK/shady-rhymes-interior-design-landing-page-(Community)?node-id=59%3A334)
 
 ## My process
 
