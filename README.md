@@ -11,7 +11,6 @@ This is a Design solution to the [shady-rythmes community figma design](https://
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
