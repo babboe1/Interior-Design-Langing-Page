@@ -212,7 +212,7 @@ ul {
    padding: 40px 0 100px;
 }
 .ListHeader {
-	display: flex;
+   display: flex;
 	justify-content: space-between;
 }
 .IdeaText {
