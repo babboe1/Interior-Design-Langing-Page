@@ -227,7 +227,7 @@ ul {
 	padding-bottom: 80px;
 }
 .Products {
-	display: flex;
+   display: flex;
 	column-gap: 10px;
 	padding: 20px 0;
 }
