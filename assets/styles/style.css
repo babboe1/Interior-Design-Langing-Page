@@ -246,7 +246,7 @@ ul {
    padding-bottom: 10px;
 }
 .profile {
-	display: flex;
+   display: flex;
 	column-gap: 10px;
 	padding-top: 14px;
 }
