@@ -255,7 +255,7 @@ ul {
 	height: 40px;
 }
 .ProfileDetails {
-	display: flex;
+   display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 }
