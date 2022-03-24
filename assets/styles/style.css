@@ -323,7 +323,7 @@ ul {
 		line-height: 35px;
 	}
 	.Ellipse {
-		padding-top: 80px;
+      padding-top: 80px;
 	}
 }
 @media screen and (min-width: 480px) {
