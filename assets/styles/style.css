@@ -315,8 +315,8 @@ ul {
 }
 
 @media screen and (min-width: 425px) {
-	.MainBox_1 {
-		row-gap: 30px;
+   .MainBox_1 {
+      row-gap: 30px;
 	}
 	#header_1 {
 		font-size: 25px;
