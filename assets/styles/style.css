@@ -346,4 +346,7 @@ ul {
       animation: fade-Image 20s ease-in infinite;
       max-width: 1920px;
    }
+      .MoreInfo {
+      font-size: 12px;
+   }
 }
