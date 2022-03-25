@@ -341,3 +341,9 @@ ul {
       border-radius: 32px 32px 0 32px;
 	}
 }
+@media screen and (min-width: 767px) {
+   #body_content {
+      animation: fade-Image 20s ease-in infinite;
+      max-width: 1920px;
+   }
+}
