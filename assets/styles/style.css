@@ -79,6 +79,14 @@ html {
 	display: flex;
 	justify-content: space-between;
 }
+#header_2 {
+   display: none;
+   font-weight: 500;
+   font-size: 25px;
+   color: #564E4E;
+   padding-top:38px;
+}
+
 .NavIcon {
 	display: flex;
 	column-gap: 0.5rem;
