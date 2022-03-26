@@ -392,6 +392,9 @@ ul {
    #header_1 {
       max-width: 500px;
    }
+   .paragraph_1 {
+      max-width: 420px;
+   }
    .MoreInfo {
       font-size: 12px;
    }
