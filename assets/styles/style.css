@@ -395,6 +395,9 @@ ul {
    .paragraph_1 {
       max-width: 420px;
    }
+   .Ellipse  {
+      padding-top: 40px;
+   }
    .MoreInfo {
       font-size: 12px;
    }
