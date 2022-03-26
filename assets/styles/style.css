@@ -401,6 +401,10 @@ ul {
    #header_2 {
       display: block;
    }
+   .Qualities {
+      padding-top: 5px;
+      flex-direction: row;
+   }
    .MoreInfo {
       font-size: 12px;
    }
