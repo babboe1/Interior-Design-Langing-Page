@@ -379,6 +379,13 @@ ul {
       justify-content: space-between;
       width: 100%;
    }
+   .InfoList {
+      margin: 0 auto;
+      display: flex;
+      flex-direction: row;
+      column-gap: 30px;
+      color: #fff;
+   }
       .MoreInfo {
       font-size: 12px;
    }
