@@ -86,7 +86,9 @@ html {
    color: #564E4E;
    padding-top:38px;
 }
-
+.InfoList {
+   display: none;
+}
 .NavIcon {
 	display: flex;
 	column-gap: 0.5rem;
