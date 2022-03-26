@@ -374,6 +374,11 @@ ul {
    #header {
       justify-content: flex-start;
    }
+   #nav {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+   }
       .MoreInfo {
       font-size: 12px;
    }
