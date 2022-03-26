@@ -389,6 +389,9 @@ ul {
    .MenuBtn {
       display: none;
    }
+   #header_1 {
+      max-width: 500px;
+   }
       .MoreInfo {
       font-size: 12px;
    }
