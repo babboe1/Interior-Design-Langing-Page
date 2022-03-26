@@ -398,6 +398,9 @@ ul {
    .Ellipse  {
       padding-top: 40px;
    }
+   #header_2 {
+      display: block;
+   }
    .MoreInfo {
       font-size: 12px;
    }
