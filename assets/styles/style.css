@@ -386,6 +386,9 @@ ul {
       column-gap: 30px;
       color: #fff;
    }
+   .MenuBtn {
+      display: none;
+   }
       .MoreInfo {
       font-size: 12px;
    }
