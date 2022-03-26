@@ -356,6 +356,21 @@ ul {
       animation: fade-Image 20s ease-in infinite;
       max-width: 1920px;
    }
+   @keyframes fade-Image {
+      0%,
+      100% {
+         background: url(../images/desktop/Hero_1.jpeg);
+         background-repeat: no-repeat;
+         background-size: contain;
+         background-position: center top;
+      }
+      50% {
+         background: url(../images/desktop/Hero_2.jpeg);
+         background-repeat: no-repeat;
+         background-size: contain;
+         background-position: center top;
+      }
+   }
       .MoreInfo {
       font-size: 12px;
    }
