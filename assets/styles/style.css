@@ -251,6 +251,9 @@ ul {
 	display: flex;
 	flex-direction: column;
 	row-gap: 40px;
+   box-shadow: -99px 0px 87px 0px rgba(250,245,242,0.75);
+-webkit-box-shadow: -99px 0px 87px 0px rgba(250,245,242,0.75);
+-moz-box-shadow: -99px 0px 87px 0px rgba(250,245,242,0.75);
 }
 .header_4 {
    padding-bottom: 10px;
