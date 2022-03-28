@@ -365,6 +365,9 @@ ul {
 	}
 }
 @media screen and (min-width: 767px) {
+   html {
+      background-size: 100% 20rem;
+   } 
    #body_content {
       animation: fade-Image 20s ease-in infinite;
       max-width: 1920px;
