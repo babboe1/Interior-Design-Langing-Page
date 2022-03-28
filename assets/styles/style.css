@@ -305,7 +305,7 @@ ul {
 #email_id {
    color: #f79489;
 }
-#footer {
+.FooterContent {
    padding: 20px 0;
 	display: flex;
 	flex-direction: column;
