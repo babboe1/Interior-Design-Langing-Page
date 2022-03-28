@@ -207,6 +207,11 @@ html {
 	text-align: center;
 	color: #564e4e;
 }
+.profiles {
+      display: flex;
+      row-gap: 40px;
+      flex-direction: column;
+   }
 ul {
 	list-style: none;
 	display: flex;
