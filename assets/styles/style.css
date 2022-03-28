@@ -132,7 +132,6 @@ html {
 }
 #search_bar,
 #email_id {
-	/* color: #ffffff; */
 	border-top-left-radius: 30px;
 	border-bottom-left-radius: 30px;
 	padding: 0 1rem;
