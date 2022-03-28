@@ -140,7 +140,6 @@ html {
 	outline: none;
 	border: none;
 	background: rgba(255, 255, 255, 0.5);
-	/* padding: 7px 1rem; */
 }
 .SearchBox ::placeholder {
 	color: #ffffff;
