@@ -420,6 +420,7 @@ ul {
    .Qualities {
       padding-top: 5px;
       flex-direction: row;
+      justify-content: space-between;
    }
    .MoreInfo {
       font-size: 12px;
