@@ -445,4 +445,7 @@ ul {
    .MoreInfo {
       font-size: 12px;
    }
+   .FooterContent {
+      flex-direction: row;
+      justify-content: space-between;
    }
