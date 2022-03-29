@@ -466,6 +466,12 @@ ul {
    .BorderRadius1, .BorderRadius2 {
       width: 100%;
    }
+   .VisualizeGroup {
+      display: flex;
+      flex-direction: row-reverse;
+      column-gap: 10px;
+      justify-content: space-between;
+   }
    .h4 {
       padding: 0 0 20px;
    }
