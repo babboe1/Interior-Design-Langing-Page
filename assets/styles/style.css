@@ -430,6 +430,9 @@ ul {
       font-size: 12px;
       line-height: 22px;
    }
+   .previewImg {
+      text-align: center;
+   }
    .MoreInfo {
       font-size: 12px;
    }
