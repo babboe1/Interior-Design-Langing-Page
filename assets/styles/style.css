@@ -433,6 +433,9 @@ ul {
    .previewImg {
       text-align: center;
    }
+   .BorderRadius1, .BorderRadius2 {
+      width: 70%;
+   }
    .MoreInfo {
       font-size: 12px;
    }
