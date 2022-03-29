@@ -425,6 +425,11 @@ ul {
    .Qualities h2 {
       font-size: 14px;
    }
+   .Qualities .Paragraph_2 {
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 22px;
+   }
    .MoreInfo {
       font-size: 12px;
    }
