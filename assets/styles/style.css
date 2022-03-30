@@ -522,6 +522,12 @@ ul {
    .InfoList {
       font-size: 15px;
    }
+   #header_1 {
+      font-size: 45px;
+      line-height: 60px;
+      padding: 90px 0 35px;
+      max-width: 520px;
+   }
    .BorderRadius2 {
       border-radius: 40px 40px 40px 0;
    }
