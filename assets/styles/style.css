@@ -519,6 +519,9 @@ ul {
 }
 
 @media screen and (min-width: 1440px) {
+   .InfoList {
+      font-size: 15px;
+   }
    .BorderRadius2 {
       border-radius: 40px 40px 40px 0;
    }
