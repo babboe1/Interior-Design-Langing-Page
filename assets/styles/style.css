@@ -517,3 +517,9 @@ ul {
       padding: 0 0 20px;
    }  
 }
+
+@media screen and (min-width: 1440px) {
+   .BorderRadius2 {
+      border-radius: 40px 40px 40px 0;
+   }
+}
