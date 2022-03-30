@@ -492,6 +492,9 @@ ul {
       justify-content: space-between;
       column-gap: 20px;
    }
+   .feedback {
+      padding: 45px 0;
+   }
    .h4 {
       padding: 0 0 20px;
    }
