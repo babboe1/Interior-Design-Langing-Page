@@ -472,6 +472,16 @@ ul {
       column-gap: 10px;
       justify-content: space-between;
    }
+   .header_3, .h4 {
+      font-size: 24px;
+   }
+   .Visualize,
+   .InfoDetails,
+   .narrative {
+      width: 50%;
+      padding: 0;
+      max-width: 650px;
+   }
    .h4 {
       padding: 0 0 20px;
    }
