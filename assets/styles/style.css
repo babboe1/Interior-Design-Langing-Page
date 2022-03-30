@@ -508,6 +508,11 @@ ul {
       margin: auto;
       padding-top: 100px;
    }
+   .homey {
+      display: flex;
+      column-gap: 10px;
+      justify-content: space-between;
+   }
    .h4 {
       padding: 0 0 20px;
    }
