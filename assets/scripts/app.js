@@ -8,3 +8,8 @@ const BackDrop = () => {
 const StopScroll = () => {
 	document.body.classList.toggle('StopScroll');
 };
+
+const backDropHandler = () => {
+   BackDrop();
+   StopScroll();
+};
