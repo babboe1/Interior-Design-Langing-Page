@@ -5,4 +5,6 @@ const CLOSE_BTN = document.getElementById('close-btn');
 const BackDrop = () => {
    BACKDROP.classList.toggle('visible');
 };
-
+const StopScroll = () => {
+	document.body.classList.toggle('StopScroll');
+};
