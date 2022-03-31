@@ -13,3 +13,5 @@ const backDropHandler = () => {
    BackDrop();
    StopScroll();
 };
+
+MENU_BTN.addEventListener('click', menuBtnHandler);
