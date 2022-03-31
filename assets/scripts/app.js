@@ -15,7 +15,10 @@ const backDropHandler = () => {
 };
 const menuBtnHandler = () => {
    backDropHandler();
-}
+};
+const closeBtnHandler = () => {
+   backDropHandler();
+};
 
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
