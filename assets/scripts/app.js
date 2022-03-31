@@ -13,6 +13,10 @@ const backDropHandler = () => {
    BackDrop();
    StopScroll();
 };
+const menuBtnHandler = () => {
+   backDropHandler();
+}
+
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
 CLOSE_BTN.addEventListener('click', closeBtnHandler);
