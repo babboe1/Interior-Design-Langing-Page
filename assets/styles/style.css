@@ -47,6 +47,19 @@ html {
 	padding: 8rem 0;
 	font-size: 1.5rem;
 }
+.Modal {
+	position: absolute;
+	z-index: 10;
+	background: black;
+	width: 85%;
+	max-width: 370px;
+	top: 0;
+	right: 0%;
+	padding: 2rem 1rem 0;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+	display: none;
+	overflow-x: hidden;
+}
 /* modals */
 
 .ImageSize {
