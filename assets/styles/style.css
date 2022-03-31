@@ -60,6 +60,10 @@ html {
 	display: none;
 	overflow-x: hidden;
 }
+.Modal.invisible {
+	display: block;
+	animation: fade-slide-out 0.8s ease-out forwards;
+}
 .Modal.visible {
 	display: block;
 	animation: fade-slide-in 0.8s ease-out forwards;
