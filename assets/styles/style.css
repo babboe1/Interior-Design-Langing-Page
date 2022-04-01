@@ -38,7 +38,7 @@ html {
 	display: none;
 }
 #backdrop.visible {
-	display: block;
+   display: block;
 	pointer-events: all;
 }
 .ModalList {
