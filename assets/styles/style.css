@@ -565,6 +565,9 @@ ul {
       max-width: 560px;
       padding: 0 0 30px;
    } 
+   .Ellipse {
+      padding-top: 170px;
+   }
    .BorderRadius2 {
       border-radius: 40px 40px 40px 0;
    }
