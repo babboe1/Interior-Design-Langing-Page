@@ -559,6 +559,12 @@ ul {
       padding: 90px 0 35px;
       max-width: 520px;
    }
+   .paragraph_1 {
+      font-size: 20px;
+      line-height: 30px;
+      max-width: 560px;
+      padding: 0 0 30px;
+   } 
    .BorderRadius2 {
       border-radius: 40px 40px 40px 0;
    }
