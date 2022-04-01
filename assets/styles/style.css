@@ -17,11 +17,6 @@ html {
 	display: none;
 	pointer-events: none;
 }
-.ImageSize {
-	width: 100%;
-	height: auto;
-	max-width: fit-content;
-}
 .StopScroll {
    height: 100vh;
 	overflow: hidden;
