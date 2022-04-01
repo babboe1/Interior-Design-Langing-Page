@@ -15,6 +15,7 @@ const backDropHandler = () => {
 };
 const menuBtnHandler = () => {
    backDropHandler();
+   CLOSE_BTN.classList.remove('hidden');
 };
 const closeBtnHandler = () => {
    backDropHandler();
