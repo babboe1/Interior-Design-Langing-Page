@@ -23,7 +23,7 @@ html {
 	max-width: fit-content;
 }
 .StopScroll {
-	height: 100vh;
+   height: 100vh;
 	overflow: hidden;
 }
 #backdrop {
