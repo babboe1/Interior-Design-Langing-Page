@@ -25,3 +25,4 @@ const closeBtnHandler = () => {
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
 CLOSE_BTN.addEventListener('click', closeBtnHandler);
+BACKDROP.addEventListener('click', backDropHandler);
