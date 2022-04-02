@@ -28,6 +28,10 @@ const closeBtnHandler = () => {
    MenuOptionOut();
    CLOSE_BTN.classList.add('hidden');
 };
+const MenuOptionOut = () => {
+	MENU_OPTION.classList.add('invisible');
+	MENU_OPTION.classList.remove('visible');
+};
 
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
