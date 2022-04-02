@@ -11,8 +11,8 @@ const StopScroll = () => {
 };
 
 const backDropHandler = () => {
-   BackDrop();
-   StopScroll();
+	BackDrop();
+	StopScroll();
 };
 const MenuOptionIn = () => {
 	MENU_OPTION.classList.add('visible');
