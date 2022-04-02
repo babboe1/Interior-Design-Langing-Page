@@ -65,6 +65,21 @@ html {
 	display: block;
 	animation: fade-slide-in 0.8s ease-out forwards;
 }
+@keyframes fade-slide-in {
+	from {
+		opacity: 0;
+		display: block;
+		height: auto;
+		width: 0;
+		z-index: 100;
+	}
+	to {
+		opacity: 100%;
+		height: auto;
+		width: 100%;
+	}
+}
+
 .NavBarModal {
 	display: flex;
 	justify-content: space-between;
