@@ -79,7 +79,19 @@ html {
 		width: 100%;
 	}
 }
-
+@keyframes fade-slide-out {
+	from {
+		opacity: 100%;
+		height: auto;
+		width: 100%;
+	}
+	to {
+		opacity: 0;
+		height: auto;
+		width: 0;
+		z-index: -1;
+	}
+}
 .NavBarModal {
 	display: flex;
 	justify-content: space-between;
