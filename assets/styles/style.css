@@ -65,6 +65,12 @@ html {
 	display: block;
 	animation: fade-slide-in 0.8s ease-out forwards;
 }
+.NavBarModal {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
 /* modals */
 
 .ImageSize {
