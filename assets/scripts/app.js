@@ -14,6 +14,10 @@ const backDropHandler = () => {
    BackDrop();
    StopScroll();
 };
+const MenuOptionIn = () => {
+	MENU_OPTION.classList.add('visible');
+   MENU_OPTION.classList.remove('invisible');
+};
 const menuBtnHandler = () => {
    backDropHandler();
    CLOSE_BTN.classList.remove('hidden');
