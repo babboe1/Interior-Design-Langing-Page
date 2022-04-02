@@ -4,7 +4,7 @@ const CLOSE_BTN = document.querySelector('.CloseBtn');
 const MENU_OPTION = document.querySelector('.Modal');
 
 const BackDrop = () => {
-   BACKDROP.classList.toggle('visible');
+	BACKDROP.classList.toggle('visible');
 };
 const StopScroll = () => {
 	document.body.classList.toggle('StopScroll');
