@@ -41,13 +41,13 @@ const clearInput = () => {
 };
 
 const emailValidationHandler = () => {
-   let getUserInput = USER_INPUT.value;
-   const filter = /[a-z0-9]+@[a-z]+\.[a-z]{2,3}/;
-   if (!filter.test(getUserInput)) {
-      ERROR_TEXT.classList.add('visible');
-      return;
-   }
-   clearInput();
+	let getUserInput = USER_INPUT.value;
+	const filter = /[a-z0-9]+@[a-z]+\.[a-z]{2,3}/;
+	if (!filter.test(getUserInput)) {
+		ERROR_TEXT.classList.add('visible');
+		return;
+	}
+	clearInput();
 };
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
