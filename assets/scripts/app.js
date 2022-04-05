@@ -37,7 +37,7 @@ const MenuOptionOut = () => {
 };
 const clearInput = () => {
 	USER_INPUT.value = '';
-   ERROR_TEXT.classList.remove('visible');
+	ERROR_TEXT.classList.remove('visible');
 };
 
 const emailValidationHandler = () => {
