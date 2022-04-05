@@ -404,6 +404,9 @@ ul {
    padding-left: 15px;
    color: red;
 }
+.ErrorText.visible {
+   display: block;
+}
 button:hover, .ListItem:hover {
    cursor: pointer;
 }
