@@ -47,7 +47,8 @@ const emailValidationHandler = () => {
       ERROR_TEXT.classList.add('visible');
       return;
    }
-}
+   clearInput();
+};
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
 CLOSE_BTN.addEventListener('click', closeBtnHandler);
