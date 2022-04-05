@@ -399,6 +399,9 @@ ul {
 #footer h4 {
    color: #FADCD9;
 }
+button:hover, .ListItem:hover {
+   cursor: pointer;
+}
 
 
 @media screen and (min-width: 425px) {

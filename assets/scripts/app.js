@@ -4,6 +4,7 @@ const CLOSE_BTN = document.querySelector('.CloseBtn');
 const SUBMIT_BTN = document.querySelector('.submit')
 const MENU_OPTION = document.querySelector('.Modal');
 const USER_INPUT = document.getElementById('email_id');
+const ERROR_TEXT = document.querySelector('.ErrorText');
 
 const BackDrop = () => {
 	BACKDROP.classList.toggle('visible');
@@ -18,7 +19,7 @@ const backDropHandler = () => {
 };
 const MenuOptionIn = () => {
 	MENU_OPTION.classList.add('visible');
-   MENU_OPTION.classList.remove('invisible');
+	MENU_OPTION.classList.remove('invisible');
 };
 const menuBtnHandler = () => {
 	backDropHandler();
@@ -26,16 +27,25 @@ const menuBtnHandler = () => {
 	CLOSE_BTN.classList.remove('hidden');
 };
 const closeBtnHandler = () => {
-   backDropHandler();
-   MenuOptionOut();
-   CLOSE_BTN.classList.add('hidden');
+	backDropHandler();
+	MenuOptionOut();
+	CLOSE_BTN.classList.add('hidden');
 };
 const MenuOptionOut = () => {
 	MENU_OPTION.classList.add('invisible');
 	MENU_OPTION.classList.remove('visible');
 };
 
+const emailValidationHandler = () => {
+   let getUserInput = USER_INPUT.value;
+   const filter = /[a-z0-9]+@[a-z]+\.[a-z]{2,3}/;
+   if (!filter.test(getUserInput)) {
+      ERROR_TEXT.classList.add('visible');
+      return;
+   }
+}
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
 CLOSE_BTN.addEventListener('click', closeBtnHandler);
 BACKDROP.addEventListener('click', backDropHandler);
+SUBMIT_BTN.addEventListener('click', emailValidationHandler);
