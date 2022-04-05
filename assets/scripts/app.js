@@ -3,6 +3,7 @@ const MENU_BTN = document.querySelector('.MenuBtn');
 const CLOSE_BTN = document.querySelector('.CloseBtn');
 const SUBMIT_BTN = document.querySelector('.submit')
 const MENU_OPTION = document.querySelector('.Modal');
+const USER_INPUT = document.getElementById('email_id');
 
 const BackDrop = () => {
 	BACKDROP.classList.toggle('visible');
