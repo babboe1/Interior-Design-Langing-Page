@@ -35,6 +35,9 @@ const MenuOptionOut = () => {
 	MENU_OPTION.classList.add('invisible');
 	MENU_OPTION.classList.remove('visible');
 };
+const clearInput = () => {
+	USER_INPUT.value = '';
+};
 
 const emailValidationHandler = () => {
    let getUserInput = USER_INPUT.value;
