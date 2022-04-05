@@ -399,6 +399,11 @@ ul {
 #footer h4 {
    color: #FADCD9;
 }
+.ErrorText {
+   display: none;
+   padding-left: 15px;
+   color: red;
+}
 button:hover, .ListItem:hover {
    cursor: pointer;
 }
