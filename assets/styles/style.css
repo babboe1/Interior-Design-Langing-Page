@@ -82,7 +82,10 @@ html {
    row-gap: 20px;
    padding-bottom: 15px;
 }
-
+#gratitude button {
+   padding: 10px 30px;
+   border-radius: 10px
+}
 @keyframes fade-slide-in {
 	from {
 		opacity: 0;
