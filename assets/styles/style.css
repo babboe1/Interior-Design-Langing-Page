@@ -65,6 +65,14 @@ html {
 	display: block;
 	animation: fade-slide-in 0.8s ease-out forwards;
 }
+.Modal.Gratitude {
+   display: block;
+	animation: fade-slide-in 0.8s ease-out forwards;
+   background-color: white;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
 @keyframes fade-slide-in {
 	from {
 		opacity: 0;
