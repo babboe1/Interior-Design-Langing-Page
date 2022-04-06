@@ -5,6 +5,7 @@ const SUBMIT_BTN = document.querySelector('.submit');
 const MENU_OPTION = document.querySelector('.Modal');
 const USER_INPUT = document.getElementById('email_id');
 const ERROR_TEXT = document.querySelector('.ErrorText');
+const GRATITUDE = document.getElementById('gratitude').parentElement;
 
 const BackDrop = () => {
 	BACKDROP.classList.toggle('visible');
