@@ -73,6 +73,15 @@ html {
    left: 50%;
    transform: translate(-50%, -50%);
 }
+#gratitude {
+   display: flex;
+   color: white;
+   flex-direction: column;
+   text-align: center;
+   row-gap: 20px;
+   padding-bottom: 15px;
+}
+
 @keyframes fade-slide-in {
 	from {
 		opacity: 0;
