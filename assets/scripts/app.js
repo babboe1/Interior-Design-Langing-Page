@@ -23,6 +23,16 @@ const modalDrop = () => {
    BackDrop();
    StopScroll();
 };
+
+const backDropHandler = () => {
+   modalDrop();
+   CLOSE_BTN.classList.add('hidden');
+   if (MENU_OPTION.classList.contains('visible')) {
+      MenuOptionOut();
+   } else if (GRATITUDE.classList.contains('Gratitude')) {
+      okHandler();
+   }
+};
 const MenuOptionIn = () => {
 	MENU_OPTION.classList.add('visible');
 	MENU_OPTION.classList.remove('invisible');
