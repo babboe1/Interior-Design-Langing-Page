@@ -43,7 +43,7 @@ const menuBtnHandler = () => {
 	CLOSE_BTN.classList.remove('hidden');
 };
 const closeBtnHandler = () => {
-	backDropHandler();
+	modalDrop();
 	MenuOptionOut();
 	CLOSE_BTN.classList.add('hidden');
 };
