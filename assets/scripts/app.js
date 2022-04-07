@@ -70,6 +70,9 @@ const emailValidationHandler = () => {
 		ERROR_TEXT.classList.add('visible');
 		return;
 	}
+   modalDrop();
+   GRATITUDE.classList.add('Gratitude');
+   document.documentElement.scrollTop = 0;
 	clearInput();
 };
 
