@@ -80,3 +80,4 @@ MENU_BTN.addEventListener('click', menuBtnHandler);
 CLOSE_BTN.addEventListener('click', closeBtnHandler);
 BACKDROP.addEventListener('click', backDropHandler);
 SUBMIT_BTN.addEventListener('click', emailValidationHandler);
+OK_BTN.addEventListener('click', okHandler);
