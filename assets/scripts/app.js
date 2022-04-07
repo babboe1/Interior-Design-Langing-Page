@@ -69,7 +69,7 @@ const emailValidationHandler = () => {
 	if (!filter.test(getUserInput)) {
 		ERROR_TEXT.classList.add('visible');
 		return;
-	}
+   }
    modalDrop();
    GRATITUDE.classList.add('Gratitude');
    document.documentElement.scrollTop = 0;
