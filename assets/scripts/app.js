@@ -8,6 +8,7 @@ const HEADER_4 = document.querySelector('.header_4.h4');
 const ERROR_TEXT = document.querySelector('.ErrorText');
 const OK_BTN = document.getElementById('ok-btn');
 const VECTOR_PLUS = document.querySelectorAll('.vectorPlus');
+const VECTOR_MINUS = document.querySelectorAll('.vectorMinus');
 const GRATITUDE = document.getElementById('gratitude').parentElement;
 
 const BackDrop = () => {
