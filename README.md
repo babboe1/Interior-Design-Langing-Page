@@ -1,6 +1,6 @@
 # shady-rhymes design----Interior-Design-Landing-Page
 
-This is a Design solution to the [shady-rythmes community figma design](https://www.figma.com/file/xak1kZllwoui5ja7wb08gK/shady-rhymes-interior-design-landing-page-Community).
+This is a design realization to a Figma community design Interior Design Landing Page created by  shady-ryhmes. [shady-rythmes community figma design](https://www.figma.com/file/xak1kZllwoui5ja7wb08gK/shady-rhymes-interior-design-landing-page-Community).
 
 ## Table of contents
 
