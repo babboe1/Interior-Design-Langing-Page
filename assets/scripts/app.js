@@ -19,9 +19,9 @@ const StopScroll = () => {
 	document.body.classList.toggle('StopScroll');
 };
 
-const backDropHandler = () => {
-	BackDrop();
-	StopScroll();
+const modalDrop = () => {
+   BackDrop();
+   StopScroll();
 };
 const MenuOptionIn = () => {
 	MENU_OPTION.classList.add('visible');
