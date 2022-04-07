@@ -10,6 +10,7 @@ const OK_BTN = document.getElementById('ok-btn');
 const VECTOR_PLUS = document.querySelectorAll('.vectorPlus');
 const VECTOR_MINUS = document.querySelectorAll('.vectorMinus');
 const GRATITUDE = document.getElementById('gratitude').parentElement;
+const TEXT_CONTENT = document.querySelectorAll('.Paragraph_ul');
 
 const BackDrop = () => {
 	BACKDROP.classList.toggle('visible');
