@@ -76,6 +76,14 @@ const emailValidationHandler = () => {
 	clearInput();
 };
 
+VECTOR_PLUS.forEach((vector, idx) => {
+   vector.onclick = () => {
+      TEXT_CONTENT[idx].classList.toggle('hidden');
+      VECTOR_MINUS[idx].classList.remove('hidden');
+      VECTOR_PLUS[idx].classList.add('hidden');
+   };
+});
+
 MENU_BTN.addEventListener('click', menuBtnHandler);
 CLOSE_BTN.addEventListener('click', closeBtnHandler);
 BACKDROP.addEventListener('click', backDropHandler);
