@@ -273,7 +273,10 @@ html {
 }
 .Paragraph_ul {
 	padding: 10px 0 20px;
+   animation: fade-slide 0.8s ease-out forwards;
 }
+
+
 .MoreInfo {
 	color: #f79489;
 	font-size: 14px;
