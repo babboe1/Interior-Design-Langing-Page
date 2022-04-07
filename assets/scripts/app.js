@@ -4,6 +4,7 @@ const CLOSE_BTN = document.querySelector('.CloseBtn');
 const SUBMIT_BTN = document.querySelector('.submit');
 const MENU_OPTION = document.querySelector('.Modal');
 const USER_INPUT = document.getElementById('email_id');
+const HEADER_4 = document.querySelector('.header_4.h4');
 const ERROR_TEXT = document.querySelector('.ErrorText');
 const GRATITUDE = document.getElementById('gratitude').parentElement;
 
