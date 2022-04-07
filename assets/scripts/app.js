@@ -56,6 +56,13 @@ const clearInput = () => {
 	ERROR_TEXT.classList.remove('visible');
 };
 
+okHandler = () => {
+   BACKDROP.classList.remove('visible');
+   document.body.classList.remove('StopScroll');
+   GRATITUDE.classList.remove('Gratitude');
+   HEADER_4.scrollIntoView(true);
+};
+
 const emailValidationHandler = () => {
 	let getUserInput = USER_INPUT.value;
 	const filter = /[a-z0-9]+@[a-z]+\.[a-z]{2,3}/;
