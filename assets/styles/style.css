@@ -276,7 +276,14 @@ html {
    animation: fade-slide 0.8s ease-out forwards;
 }
 
-
+@keyframes fade-slide {
+	0%{
+   		 transform: translateY(-1rem);
+	}
+	100% {
+    		transform: translateY(1rem);
+	}
+}
 .MoreInfo {
 	color: #f79489;
 	font-size: 14px;
