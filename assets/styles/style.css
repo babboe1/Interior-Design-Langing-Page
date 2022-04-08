@@ -439,7 +439,8 @@ ul {
 	display: block;
 }
 button:hover,
-.ListItem:hover {
+.ListItem:hover,
+.vectorImgs:hover  {
 	cursor: pointer;
 }
 
