@@ -68,11 +68,11 @@ html {
 .Modal.Gratitude {
    display: block;
 	animation: fade-slide-in 0.8s ease-out forwards;
-   background-color:  #999799;;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   border-radius: 10px;
+	background-color: #999799;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 10px;
 }
 #gratitude {
    display: flex;
