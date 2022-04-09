@@ -57,10 +57,10 @@ const clearInput = () => {
 };
 
 okHandler = () => {
-   BACKDROP.classList.remove('visible');
-   document.body.classList.remove('StopScroll');
-   GRATITUDE.classList.remove('Gratitude');
-   HEADER_4.scrollIntoView(true);
+	BACKDROP.classList.remove('visible');
+	document.body.classList.remove('StopScroll');
+	GRATITUDE.classList.remove('Gratitude');
+	HEADER_4.scrollIntoView(true);
 };
 
 const emailValidationHandler = () => {
