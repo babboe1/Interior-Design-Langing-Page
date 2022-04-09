@@ -20,8 +20,8 @@ const StopScroll = () => {
 };
 
 const modalDrop = () => {
-   BackDrop();
-   StopScroll();
+	BackDrop();
+	StopScroll();
 };
 
 const backDropHandler = () => {
