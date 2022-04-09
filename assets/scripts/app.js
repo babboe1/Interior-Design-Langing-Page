@@ -38,7 +38,7 @@ const MenuOptionIn = () => {
 	MENU_OPTION.classList.remove('invisible');
 };
 const menuBtnHandler = () => {
-   modalDrop();
+	modalDrop();
 	MenuOptionIn();
 	CLOSE_BTN.classList.remove('hidden');
 };
