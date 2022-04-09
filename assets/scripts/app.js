@@ -84,11 +84,11 @@ VECTOR_PLUS.forEach((vector, idx) => {
 	};
 });
 VECTOR_MINUS.forEach((vector, idx) => {
-   vector.onclick = () => {
-      TEXT_CONTENT[idx].classList.toggle('hidden');
-      VECTOR_MINUS[idx].classList.add('hidden');
-      VECTOR_PLUS[idx].classList.remove('hidden');
-   };
+	vector.onclick = () => {
+		TEXT_CONTENT[idx].classList.toggle('hidden');
+		VECTOR_MINUS[idx].classList.add('hidden');
+		VECTOR_PLUS[idx].classList.remove('hidden');
+	};
 });
 
 MENU_BTN.addEventListener('click', menuBtnHandler);
