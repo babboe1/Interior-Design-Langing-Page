@@ -60,7 +60,7 @@ okHandler = () => {
 	BACKDROP.classList.remove('visible');
 	document.body.classList.remove('StopScroll');
 	GRATITUDE.classList.remove('Gratitude');
-	HEADER_4.scrollIntoView(true);
+   HEADER_4.scrollIntoView(true);
    window.open('mailto:babboecodes@gmail.com');
 };
 
