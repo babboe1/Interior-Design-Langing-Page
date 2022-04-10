@@ -273,7 +273,7 @@ html {
 }
 .Paragraph_ul {
 	padding: 10px 0 20px;
-   animation: fade-slide 0.8s ease-out forwards;
+	animation: fade-slide 0.8s ease-out forwards;
 }
 
 @keyframes fade-slide {
