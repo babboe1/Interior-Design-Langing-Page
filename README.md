@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-Below is a preview of the screenshot of the shady-ryhmes Interior Design Landing Page
-![Alt text](./assets/images/preview.jpeg)
+Below is a preview of the screenshot of the shady-ryhmes Interior Design Landing Page <br/>
+![Alt text](./assets/images/preview.jpeg?raw=true "Preview Image")
 
 ### Links
 
