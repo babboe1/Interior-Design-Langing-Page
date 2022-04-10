@@ -281,7 +281,7 @@ html {
 		transform: translateY(-1rem);
 	}
 	100% {
-    		transform: translateY(1rem);
+		transform: translateY(1rem);
 	}
 }
 .MoreInfo {
