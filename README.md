@@ -23,6 +23,8 @@ Users should be able to:
 ### Screenshot
 
 Below is a preview of the screenshot of the shady-ryhmes Interior Design Landing Page
+![](./assets/images/preview.jpeg)
+
 ### Links
 
 - Live Site URL: [Shady Rhymes Interior Design Landing Page](https://your-live-site-url.com)
