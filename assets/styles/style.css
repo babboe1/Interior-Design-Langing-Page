@@ -442,6 +442,10 @@ ul {
 .ErrorText.visible {
 	display: block;
 }
+.vectorImgs img {
+   padding-left: 15px;
+   padding-right: 10px;
+}
 button:hover,
 .ListItem:hover,
 .vectorImgs:hover {
