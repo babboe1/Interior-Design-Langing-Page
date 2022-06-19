@@ -254,6 +254,15 @@ html {
 	border-radius: 10px;
 	padding: 0 10px;
 }
+.QualityBox:hover {
+   border: 1px solid #fadcd9;
+   box-shadow: 4px 2px 10px 2px rgb(247 148 137 / 20%);
+   background: #121FCF;
+   background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+
+}
 .IconSize {
 	padding: 10px 0 30px;
 	width: 28px;
