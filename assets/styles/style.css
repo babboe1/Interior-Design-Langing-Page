@@ -190,9 +190,11 @@ html {
 }
 #header_1 {
 	font-weight: 600;
+	color: #fff;
 	font-size: 20px;
 	line-height: 27px;
 	text-align: center;
+	color: #fff;
 	max-width: 290px;
 	margin: 0 auto;
 }
