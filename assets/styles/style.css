@@ -491,7 +491,7 @@ button:hover,
 	@keyframes fade-Image {
 		0%,
 		100% {
-			background: url(../images/desktop/Hero_1.jpeg);
+			background: url(../images/desktop/Hero_1.jpg);
 			background-repeat: no-repeat;
 			background-size: contain;
 			background-position: center top;
